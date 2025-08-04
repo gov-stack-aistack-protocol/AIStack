@@ -7,6 +7,7 @@ Este documento define os padrões de comportamento, responsabilidades e procedim
 ## 1. Nosso Compromisso
 
 Como membros, contribuidores e líderes da comunidade AIStack, compromissamo-nos a garantir uma experiência livre de assédio para qualquer pessoa — independente de **idade, porte físico, deficiência, etnia, gênero, identidade de gênero, orientação sexual, escolaridade, país de origem, aparência, crença religiosa ou socioeconômica**.  
+
 Inspirados no modelo do **Contributor Covenant (versão 2.1)**, adotamos explicitamente esses valores e critérios para definir nossas normas comportamentais. A ampla adoção desse padrão em mais de 40.000 projetos sinaliza confiança na sua eficácia**:contentReference[oaicite:0]{index=0}**.
 
 ### 1.1 Quando este código se aplica  
