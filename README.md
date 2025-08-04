@@ -45,10 +45,10 @@ O **Protocolo AIStack** (nome provisório) foi idealizado para ser essas avenida
 
 ## Por que isso importa para qualquer pessoa?
 
--**Interações mais rápidas com assistentes virtuais**: ao fazer perguntas complexas, o tempo de resposta diminui, tornando a conversa muito mais fluida.
--**Serviços críticos mais seguros e precisos**: em emergências médicas ou financeiras, as decisões baseadas em IA chegam antes e com maior confiança.
--**Experiências imersivas**: jogos, realidade virtual e robótica responderão em frações de segundo, ampliando o limite do que é possível.
--**Redução de custos de infraestrutura**: processar menos dados e gastar menos energia é bom para empresas e para o meio ambiente.
+- **Interações mais rápidas com assistentes virtuais**: ao fazer perguntas complexas, o tempo de resposta diminui, tornando a conversa muito mais fluida.
+- **Serviços críticos mais seguros e precisos**: em emergências médicas ou financeiras, as decisões baseadas em IA chegam antes e com maior confiança.
+- **Experiências imersivas**: jogos, realidade virtual e robótica responderão em frações de segundo, ampliando o limite do que é possível.
+- **Redução de custos de infraestrutura**: processar menos dados e gastar menos energia é bom para empresas e para o meio ambiente.
 
 Em resumo, o AIStack transforma como IAs dirigem no trânsito digital. Isso significa serviços mais rápidos, seguros e econômicos para todos — desde o usuário que conversa com um chatbot até a fábrica que coordena robôs em linha de produção.
 
