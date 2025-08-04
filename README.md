@@ -36,11 +36,11 @@ Hoje, as inteligências artificiais (IAs) conversam entre si usando regras e cam
 
 O **Protocolo AIStack** (nome provisório) foi idealizado para ser essas avenidas largas, semaforização inteligente e faixa exclusiva: um canal de comunicação feito sob medida para as necessidades das IAs:
 
-**Velocidade**: troca de informações em microssegundos, permitindo reações quase instantâneas.
--**Eficiência**: comprime só o que é relevante, eliminando ruído e reduzindo até cem vezes o volume de dados trocados.
--**Confiabilidade** e Segurança: identidades digitais verificadas, criptografia resistente a ataques futuros e recuperação automática de falhas.
--**Escalabilidade**: não depende de um ponto central — cada IA se conecta às mais próximas em termos de contexto, como se seguisse o caminho mais rápido até o destino.
--**Observabilidade Inteligente**: todas as movimentações são monitoradas em tempo real para ajustar semáforos e faixas conforme a necessidade.
+- **Velocidade**: troca de informações em microssegundos, permitindo reações quase instantâneas.
+- **Eficiência**: comprime só o que é relevante, eliminando ruído e reduzindo até cem vezes o volume de dados trocados.
+- **Confiabilidade** e Segurança: identidades digitais verificadas, criptografia resistente a ataques futuros e recuperação automática de falhas.
+- **Escalabilidade**: não depende de um ponto central — cada IA se conecta às mais próximas em termos de contexto, como se seguisse o caminho mais rápido até o destino.
+- **Observabilidade Inteligente**: todas as movimentações são monitoradas em tempo real para ajustar semáforos e faixas conforme a necessidade.
 
 
 ## Por que isso importa para qualquer pessoa?
