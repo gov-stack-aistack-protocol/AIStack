@@ -1,75 +1,93 @@
 AIStack Dual 👇 -License Overview (`LICENSE.md`)
 
-Este projeto AIStack utiliza **duas licenças separadas**, cada qual aplicando-se
-a diferentes categorias de artefatos:
+Este projeto AIStack utiliza duas licenças separadas, cada qual aplicando-se a diferentes categorias de artefatos:
+
 ---
-## 1. Licença de Conteúdo Textual e Artefatos Documentais — **CC0 1.0 📘
-Universal (Public Domain)**
-Toda documentação, especificação técnica, arte conceitual, tutoriais e demais
-textos informativos estão **em domínio público**, conforme o Deep **Creative
-Commons Zero (CC0 1.0 Universal)**, ou seja:
-- O autor renuncía **todos os direitos de copyright**, mundialmente, pelo tempo
-máximo permitido por lei.
-- Você pode **copiar, modificar, distribuir e usar comercialmente**, sem
-atribuição — tudo sem solicitar permissão :contentReference[oaicite:0]{index=0}.
+
+## 1. Licença de Conteúdo Textual e Artefatos Documentais — **CC0 1.0 Universal (Public Domain)**
+
+Toda documentação, especificação técnica, arte conceitual, tutoriais e demais textos informativos estão **em domínio público**, conforme o Deep **Creative Commons Zero (CC0 1.0 Universal)**, ou seja: 
+
+- O autor renuncía **todos os direitos de copyright**, mundialmente, pelo tempo máximo permitido por lei.
+- Você pode **copiar, modificar, distribuir e usar comercialmente**, sem atribuição — tudo sem solicitar permissão :contentReference[oaicite:0 {index=0}.
+
 Veja o texto legal e o *Deed*:
-- Legal Code: [https://creativecommons.org/publicdomain/zero/1.0/legalcode]
-(https://creativecommons.org/publicdomain/zero/1.0/
-legalcode) :contentReference[oaicite:1]{index=1}
+
+- Legal Code: [https://creativecommons.org/publicdomain/zero/1.0/legalcode] (https://creativecommons.org/publicdomain/zero/1.0/ legalcode) :contentReference[oaicite:1]{index=1}
+
 ---
-## 2. Licença de Código Fonte e Artigos Executáveis — **Apache License 2.0** ⚙️
-Todo o código (exemplos de handshake, simuladores, schemas FlatBuffers, scripts
-CLI etc.) é licenciado sob a **Apache License 2.0**, com os seguintes
+
+## 2. Licença de Código Fonte e Artigos Executáveis — **Apache License 2.0** 
+
+Todo o código (exemplos de handshake, simuladores, schemas FlatBuffers, scripts CLI etc.) é licenciado sob a **Apache License 2.0**, com os seguintes
 compromissos:
-- Permite uso comercial, modificação, distribuição modificada ou não,
-**sublicenciamento** e patentes explícitas :contentReference[oaicite:2]
-{index=2}.
+
+- Permite uso comercial, modificação, distribuição modificada ou não, **sublicenciamento** e patentes explícitas :contentReference[oaicite:2] {index=2}.
 - Preserva atribuição do copyright original e aviso de alterações.
 - Inclui isenção de garantia e de responsabilidade para os contribuidores.
+
 **Condições essenciais:**
+
 - Mantenha o cabeçalho de copyright em arquivos com código-tos.
-- Inclua o texto integral da licença interessada ou faça referência ao link
-oficial: [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/
-licenses/LICENSE-2.0) :contentReference[oaicite:3]{index=3}.
+- Inclua o texto integral da licença interessada ou faça referência ao link oficial: [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) :contentReference[oaicite:3]{index=3}.
+
 ---
+
 ## Quem contribui ou redistribui (contribuintes) 👥
-Contribuições (Pull Requests) ao código serão automaticamente licenciadas sob
-**Apache 2.0**, conforme definido no `CONTRIBUTING.md` e aceitos mediante o
-**Developer Certificate of Origin v1.1**, garantindo clareza da autoria — o
-licenciamento é irrevogável em relação a esses artefatos fornecidos.
+
+Contribuições (Pull Requests) ao código serão automaticamente licenciadas sob **Apache 2.0**, conforme definido no `CONTRIBUTING.md` e aceitos mediante o **Developer Certificate of Origin v1.1**, garantindo clareza da autoria — o licenciamento é irrevogável em relação a esses artefatos fornecidos.
+
 ---
+
 ## Estrutura Recomendada de `LICENSE.md` 📄
+
 ```text
 AIStack Projeto — Dual License
--- Conteúdo (docs, specs, tutoriais, comentários) sob CC0 1.0 Universal (domínio
-público).
--- Código e artefatos executáveis (modo de transporte, handshake, schemas
-FlatBuffers etc.) sob Apache License 2.0.
+
+-- Conteúdo (docs, specs, tutoriais, comentários) sob CC0 1.0 Universal (domínio público).
+-- Código e artefatos executáveis (modo de transporte, handshake, schemas FlatBuffers etc.) sob Apache License 2.0.
+
 Consultar:
-• CC0 1.0 legal text:
-https://creativecommons.org/publicdomain/zero/1.0/legalcode
+• CC0 1.0 legal text:https://creativecommons.org/publicdomain/zero/1.0/legalcode
 • Apache License 2.0 full text: http://www.apache.org/licenses/LICENSE-2.0
-Data: YYYY-MM-DD
+
+Data: 04/08/2025
+
+
 🧩 Exemplo de Trecho de Cabeçalho Apache-2.0
 Em cada arquivo de código ou schema anexado, inclua algo como:
+
 // Copyright YYYY O AIStack Contributors
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-http://www.apache.org/licenses/LICENSE-2.0
-Isso cumpre com a seção 4.d da Apache 2.0 (vladimirgorej.com).
+// You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+Isso cumpre com a seção 4.d da Apache 2.0 (vladimirgorej.com)
+
 ✅ Resumo
-Tipo de artefato Licença O que permite
-Documentação, texto CC0 1.0 Uso irrestrito, privado ou comercial, sem
-atribuição
-Código, scripts, simuladores,
-schemas Apache 2.0 Uso, modificação, patentes, requisitos de
-atribuição
-⚠️ Aviso Legal
-O presente LICENSE.md oferece versão resumida dos termos principais. Para usos legais formais
-(ex.: distribuição corporativa), inclua os textos integrais das licenças acima no repositório,
-preferencialmente em arquivos LICENSE_CC0.txt e LICENSE_APACHE-2.0.txt.
-Obrigado por construir o AIStack com rigor técnico e clareza legal. Se tiver dúvidas sobre como
-atribuir ou licenciar contribuições específicas, consulte nossos mantenedores ou a equipe de
-governança.
+
+Tipo de artefato 
+- Documentação, texto
+
+Licença 
+- CC0 1.0
+
+O que permite
+- Uso irrestrito, privado ou comercial, sem atribuição
+
+Tipo de artefato
+- Código, scripts, simuladores, schemas
+
+Licença 
+- Apache 2.0
+
+O que permite
+Uso, modificação, patentes, requisitos de atribuição
+
+
+⚠Aviso Legal
+
+O presente LICENSE.md oferece versão resumida dos termos principais. Para usos legais formais (ex.: distribuição corporativa), inclua os textos integrais das licenças acima no repositório, preferencialmente em arquivos LICENSE_CC0.txt e LICENSE_APACHE-2.0.txt.
+
+Obrigado por construir o AIStack com rigor técnico e clareza legal. Se tiver dúvidas sobre como atribuir ou licenciar contribuições específicas, consulte nossos mantenedores ou a equipe de governança.
 — Equipe de Governança AIStack
