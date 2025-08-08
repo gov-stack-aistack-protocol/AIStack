@@ -82,7 +82,7 @@ Este é o momento para deixar algo significativo no mundo da tecnologia — e cr
 
 Se você tem curiosidade técnica, proficiência, sue sangue pela inovação ou desejo de ampliar seus horizontes, **seja bem-vindo ao AIStack!** 🚀
 
-👉 **Junte-se a nós: [github.com/org/AIStack](https://github.com/org/AIStack)** – e vamos redesenhar juntos como IAs se comunicam com confiabilidade, segurança e velocidade extrema.
+👉 **Junte-se a nós: [`github.com/org/AIStack`](https://github.com/gov-stack-aistack-protocol/AIStack/tree/main)** – e vamos redesenhar juntos como IAs se comunicam com confiabilidade, segurança e velocidade extrema.
 
 Aguardamos você do outro lado,
 **Equipe fundadora de AIStack**
