@@ -60,7 +60,7 @@ Convidamos desenvolvedores de sistemas operacionais, criadores de protocolos, en
 
 ## 6. Como Se Envolver Agora
 
-1. Visite `[github.com/ai-stack/AIStack](https://github.com/gov-stack-aistack-protocol/AIStack/tree/main)` e leia **README.md** e **CONTRIBUTING.md**.
+1. Visite `https://github.com/gov-stack-aistack-protocol/AIStack/tree/main` e leia **README.md** e **CONTRIBUTING.md**.
 2. Pronto para contribuir? Veja issues marcadas como *“easy-first”* ou *“needs mentor”* e deixe seu *PR*.
 3. Participe dos canais oficiais: **GitHub Discussions**, **Discord** ou **lista de e‑mail técnica**. Apresente ideias ou dúvidas — somos uma comunidade colaborativa.
 4. Participe de nosso **hackathon mensal** ou reuniões informais para sprint de 48h.
