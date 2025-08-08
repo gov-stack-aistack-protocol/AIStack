@@ -1,7 +1,3 @@
-Claro! Aqui está a **carta aberta** formatada com a estrutura do ChatGPT, mantendo o conteúdo original:
-
----
-
 > ## **Carta Aberta: Convite à Comunidade Tech para Interagir, Construir e Evoluir o Protocolo AIStack**
 
 ---
