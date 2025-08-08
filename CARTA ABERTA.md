@@ -44,7 +44,7 @@ Você está convidado a participar do **AIStack** – um projeto ambicioso e col
 ### 📌 Como participar hoje mesmo
 
 1. **Visite o repositório oficial no GitHub:**
-   [`github.com/org/AIStack`](https://github.com/org/AIStack)
+   [`github.com/org/AIStack`](https://github.com/gov-stack-aistack-protocol/AIStack/tree/main)
 
    Lá você encontra:
 
