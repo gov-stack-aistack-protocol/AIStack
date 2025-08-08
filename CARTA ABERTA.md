@@ -95,7 +95,3 @@ Aguardamos você do outro lado,
 2. Projetos de código aberto bem-sucedidos criam cultura inclusiva via documentação clara e comunicação aberta ([Open Source Guides](https://opensource.guide/building-community/))
 3. Linux Foundation recomenda atrair contribuintes destacando propósito, respeito e treinamento interno ([Linux Foundation](https://www.linuxfoundation.org/blog/blog/effective-strategies-recruiting-open-source-developers?utm_source=chatgpt.com))
 4. Ambientes que valorizam contribuições amplas (doc, UX, storytelling) conseguem atrair e reter diversidade técnica ([Daily.dev](https://daily.dev/blog/diversity-in-open-source-best-practices-guide-2024?utm_source=chatgpt.com))
-
----
-
-Se quiser, posso ajudar você a adaptar esse conteúdo para email, landing page, post no GitHub ou campanha em redes sociais.
