@@ -1,7 +1,3 @@
-Claro! Aqui está o conteúdo da sua **carta aberta** reformatado com o estilo de apresentação do ChatGPT, mantendo a fidelidade total ao conteúdo original:
-
----
-
 > ## **Um Chamado aos Arquitetos do Futuro: Vamos Construir o Protocolo que Libertará o Potencial das IAs**
 >
 > **📅 3 de agosto de 2025**
