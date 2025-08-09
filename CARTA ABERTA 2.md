@@ -77,15 +77,5 @@ Estamos reunindo uma comunidade de talentos excepcionais para transformar este w
 Se você sentiu um chamado ao ler estas palavras, se acredita que **podemos fazer melhor do que as "ruas estreitas"** que temos hoje, **então seu lugar é conosco**.
 
 Com entusiasmo e espírito colaborativo,
-**\[Seu Nome / Nome do Projeto AIStack]**
-
----
-
-Se quiser, posso converter essa carta para formatos alternativos como:
-
-* Email marketing
-* Post para LinkedIn ou Twitter/X
-* Slide para pitch deck comunitário
-* PDF para envio institucional
-
-É só pedir!
+**\[Tony Tenório / Projeto AIStack]**
+ 
